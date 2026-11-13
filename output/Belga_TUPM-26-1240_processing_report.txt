@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+--------------------------------------
+Last Name: Belga
+Student ID: TUPM-26-1240
+Seed Digit: 0
+ID Sum: 15
+Verification Value: 75
+Dataset Sample Size: 65
+Valid Records: 65
+Average Global Active Power: 4.115
+JSON File: Belga_TUPM-26-1240_record.json
+Backup File: Belga_TUPM-26-1240_record.csv

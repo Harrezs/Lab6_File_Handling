@@ -1,0 +1,5 @@
+Student: Belga
+Student ID: TUPM-26-1240
+Seed digit: 0
+ID sum: 15
+Verification value: 75
